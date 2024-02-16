@@ -1,0 +1,1275 @@
+
+/* Class = "UILabel"; text = "Get Directions"; ObjectID = "02n-NQ-Lbo"; */
+"02n-NQ-Lbo.text" = "Get Directions";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "06F-3w-jcA"; */
+"06F-3w-jcA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0AA-Eh-Zm0"; */
+"0AA-Eh-Zm0.text" = "Label";
+
+/* Class = "UILabel"; text = "Please fill in your information to start your application"; ObjectID = "0TB-kO-skE"; */
+"0TB-kO-skE.text" = "Please fill in your information to start your application";
+
+/* Class = "UILabel"; text = "Add Vehicle Information"; ObjectID = "0UH-pf-9nZ"; */
+"0UH-pf-9nZ.text" = "Add Vehicle Information";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "0bi-gs-kHj"; */
+"0bi-gs-kHj.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0fR-Gl-vle"; */
+"0fR-Gl-vle.text" = "Label";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "0v0-Vp-SgJ"; */
+"0v0-Vp-SgJ.text" = "N/A";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "0vA-Y4-xs9"; */
+"0vA-Y4-xs9.normalTitle" = "Retry";
+
+/* Class = "UILabel"; text = "You will be notified by the Move It admin via email and/or app notification."; ObjectID = "1IU-RH-Ech"; */
+"1IU-RH-Ech.text" = "You will be notified by the Move It admin via email and/or app notification.";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "1ME-Ep-kww"; */
+"1ME-Ep-kww.text" = "No";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1fT-43-ptx"; */
+"1fT-43-ptx.text" = "Label";
+
+/* Class = "UILabel"; text = "How Many?"; ObjectID = "1j2-Mp-qzy"; */
+"1j2-Mp-qzy.text" = "How Many?";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "2US-iR-zWL"; */
+"2US-iR-zWL.text" = "To";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2lI-B5-IpC"; */
+"2lI-B5-IpC.text" = "Label";
+
+/* Class = "UILabel"; text = "Email: support@gomoveit.com"; ObjectID = "2lu-l1-MlQ"; */
+"2lu-l1-MlQ.text" = "Email: support@gomoveit.com";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2qd-jg-EdQ"; */
+"2qd-jg-EdQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Total Items"; ObjectID = "2vv-sW-hmi"; */
+"2vv-sW-hmi.text" = "Total Items";
+
+/* Class = "UILabel"; text = "Vehicle Plate Number"; ObjectID = "3HN-1T-FBL"; */
+"3HN-1T-FBL.text" = "Vehicle Plate Number";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "3Lz-uj-2XG"; */
+"3Lz-uj-2XG.text" = "More";
+
+/* Class = "UILabel"; text = "Add Additional Detail"; ObjectID = "3Nf-V0-5gQ"; */
+"3Nf-V0-5gQ.text" = "Add Additional Detail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3X6-xg-Ofh"; */
+"3X6-xg-Ofh.text" = "Label";
+
+/* Class = "UILabel"; text = "No Scheduled Moves Yet!"; ObjectID = "3Zw-7Z-a0M"; */
+"3Zw-7Z-a0M.text" = "No Scheduled Moves Yet!";
+
+/* Class = "UILabel"; text = "AM              "; ObjectID = "3rD-Zc-lBV"; */
+"3rD-Zc-lBV.text" = "AM              ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3tM-yZ-8Kk"; */
+"3tM-yZ-8Kk.text" = "Label";
+
+/* Class = "UILabel"; text = "You need to upload your vehicle front,left side,  right side and back side photo(s)"; ObjectID = "3y7-vn-rzO"; */
+"3y7-vn-rzO.text" = "You need to upload your vehicle front,left side,  right side and back side photo(s)";
+
+/* Class = "UILabel"; text = "PHONE NUMBER"; ObjectID = "3yc-Re-rTf"; */
+"3yc-Re-rTf.text" = "PHONE NUMBER";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "3z1-Jq-mfp"; */
+"3z1-Jq-mfp.text" = "Weight";
+
+/* Class = "UILabel"; text = "Agreeing to this contract allows Move It, LLC to perform background check on me."; ObjectID = "42J-hB-QIs"; */
+"42J-hB-QIs.text" = "Agreeing to this contract allows Move It, LLC to perform background check on me.";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "43N-63-XhP"; */
+"43N-63-XhP.text" = "To";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "47z-kY-vMj"; */
+"47z-kY-vMj.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "4AC-Ha-oCh"; */
+"4AC-Ha-oCh.text" = "Height";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4dg-11-qo9"; */
+"4dg-11-qo9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4le-GL-nHc"; */
+"4le-GL-nHc.text" = "Label";
+
+/* Class = "UILabel"; text = "CONTINUE"; ObjectID = "4nn-Kw-ViI"; */
+"4nn-Kw-ViI.text" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Headshot Photo"; ObjectID = "4s1-ai-Cr8"; */
+"4s1-ai-Cr8.text" = "Headshot Photo";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "508-qt-BSX"; */
+"508-qt-BSX.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "52B-zw-Pmk"; */
+"52B-zw-Pmk.text" = "Label";
+
+/* Class = "UILabel"; text = "Set Your New Password"; ObjectID = "57Y-eK-uj6"; */
+"57Y-eK-uj6.text" = "Set Your New Password";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "5D0-g4-Fvm"; */
+"5D0-g4-Fvm.text" = "5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5GP-se-a34"; */
+"5GP-se-a34.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Xz-4O-iCE"; */
+"5Xz-4O-iCE.text" = "Label";
+
+/* Class = "UILabel"; text = "About Item"; ObjectID = "5oZ-Cz-zuv"; */
+"5oZ-Cz-zuv.text" = "About Item";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "5r1-jF-0Sv"; */
+"5r1-jF-0Sv.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Upload your headshot photo"; ObjectID = "5sj-zI-YD9"; */
+"5sj-zI-YD9.text" = "Upload your headshot photo";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "6Gu-EQ-0fX"; */
+"6Gu-EQ-0fX.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6eY-UO-bSY"; */
+"6eY-UO-bSY.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Verify Code"; ObjectID = "7ES-6D-fCt"; */
+"7ES-6D-fCt.placeholder" = "Verify Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7ZI-Yt-2TF"; */
+"7ZI-Yt-2TF.text" = "Label";
+
+/* Class = "UITextField"; text = "Select your vehicle type"; ObjectID = "7mR-FM-rcq"; */
+"7mR-FM-rcq.text" = "Select your vehicle type";
+
+/* Class = "UILabel"; text = "Your registration process is under review\nby admin. It will take 3-7 days\nto verify your account."; ObjectID = "85A-u6-btY"; */
+"85A-u6-btY.text" = "Your registration process is under review\nby admin. It will take 3-7 days\nto verify your account.";
+
+/* Class = "UILabel"; text = "Width"; ObjectID = "87H-X2-XWV"; */
+"87H-X2-XWV.text" = "Width";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Ik-kx-TOL"; */
+"8Ik-kx-TOL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "$350"; ObjectID = "8P2-en-hWw"; */
+"8P2-en-hWw.text" = "$350";
+
+/* Class = "UILabel"; text = "You have successfully completed your move"; ObjectID = "8UT-PG-Gnh"; */
+"8UT-PG-Gnh.text" = "You have successfully completed your move";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8hH-Lp-SbB"; */
+"8hH-Lp-SbB.text" = "Label";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "8yn-m3-qi0"; */
+"8yn-m3-qi0.text" = "No";
+
+/* Class = "UILabel"; text = "Take a minute to upload\nyour vehicle photos"; ObjectID = "98h-wL-jP4"; */
+"98h-wL-jP4.text" = "Take a minute to upload\nyour vehicle photos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Fj-6c-nB4"; */
+"9Fj-6c-nB4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9HZ-0n-bXR"; */
+"9HZ-0n-bXR.text" = "Label";
+
+/* Class = "UILabel"; text = "$350"; ObjectID = "9Sw-nJ-SLK"; */
+"9Sw-nJ-SLK.text" = "$350";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Tn-LY-wzq"; */
+"9Tn-LY-wzq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9UB-bt-NBd"; */
+"9UB-bt-NBd.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "9ZJ-kR-hSr"; */
+"9ZJ-kR-hSr.text" = "1";
+
+/* Class = "UILabel"; text = "You can add your availability time slot and can edit according your flexible time"; ObjectID = "9a1-qY-akR"; */
+"9a1-qY-akR.text" = "You can add your availability time slot and can edit according your flexible time";
+
+/* Class = "UIButton"; normalTitle = "Go to the Move It Customer App"; ObjectID = "9cW-Xf-bjl"; */
+"9cW-Xf-bjl.normalTitle" = "Go to the Move It Customer App";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "9eo-xA-uE3"; */
+"9eo-xA-uE3.text" = "No";
+
+/* Class = "UILabel"; text = "Pyapal Email"; ObjectID = "9nj-iZ-lJf"; */
+"9nj-iZ-lJf.text" = "Pyapal Email";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "A1Q-Nv-cjr"; */
+"A1Q-Nv-cjr.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "A2T-g0-jGM"; */
+"A2T-g0-jGM.text" = "Rating";
+
+/* Class = "UILabel"; text = "When will you arrive to start the move at the customers location?"; ObjectID = "AAm-46-ZmU"; */
+"AAm-46-ZmU.text" = "When will you arrive to start the move at the customers location?";
+
+/* Class = "UILabel"; text = "Select Your Vehicle Year"; ObjectID = "AFK-4G-Znm"; */
+"AFK-4G-Znm.text" = "Select Your Vehicle Year";
+
+/* Class = "UILabel"; text = "No Payment Information Yet!"; ObjectID = "AUa-Ha-MiJ"; */
+"AUa-Ha-MiJ.text" = "No Payment Information Yet!";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "AVU-cU-sQI"; */
+"AVU-cU-sQI.title" = "Done";
+
+/* Class = "UILabel"; text = "PHONE NUMBER"; ObjectID = "Ao2-6f-VIo"; */
+"Ao2-6f-VIo.text" = "PHONE NUMBER";
+
+/* Class = "UITextField"; placeholder = "Enter your Zelle ID"; ObjectID = "Avu-yz-5Dm"; */
+"Avu-yz-5Dm.placeholder" = "Enter your Zelle ID";
+
+/* Class = "UILabel"; text = "Enter Your Phone Number"; ObjectID = "Ay3-He-2QW"; */
+"Ay3-He-2QW.text" = "Enter Your Phone Number";
+
+/* Class = "UILabel"; text = "Scheduled"; ObjectID = "Az0-Lo-MbK"; */
+"Az0-Lo-MbK.text" = "Scheduled";
+
+/* Class = "UILabel"; text = "MOVE IT PRO & MUSCLE \nLOGIN"; ObjectID = "BAh-ls-BuY"; */
+"BAh-ls-BuY.text" = "MOVE IT PRO & MUSCLE \nLOGIN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BBC-rS-drM"; */
+"BBC-rS-drM.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Anything else your helper should know."; ObjectID = "BPN-Jy-Mzs"; */
+"BPN-Jy-Mzs.placeholder" = "Anything else your helper should know.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BcR-Mn-dxg"; */
+"BcR-Mn-dxg.text" = "Label";
+
+/* Class = "UILabel"; text = "No Moves Yet!"; ObjectID = "Bl2-ol-jLv"; */
+"Bl2-ol-jLv.text" = "No Moves Yet!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bo7-es-Jwb"; */
+"Bo7-es-Jwb.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Select your vehicle type"; ObjectID = "BoA-fu-0FL"; */
+"BoA-fu-0FL.text" = "Select your vehicle type";
+
+/* Class = "UILabel"; text = "Step 4/5"; ObjectID = "BpR-9r-fTh"; */
+"BpR-9r-fTh.text" = "Step 4/5";
+
+/* Class = "UILabel"; text = "Select Days"; ObjectID = "Bzd-zV-om8"; */
+"Bzd-zV-om8.text" = "Select Days";
+
+/* Class = "UILabel"; text = "Move Info"; ObjectID = "C0g-zG-Ifa"; */
+"C0g-zG-Ifa.text" = "Move Info";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "C7s-OP-dG6"; */
+"C7s-OP-dG6.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CPS-Ir-iMy"; */
+"CPS-Ir-iMy.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "I didn't get a code"; ObjectID = "CRD-FS-gvN"; */
+"CRD-FS-gvN.normalTitle" = "I didn't get a code";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "CXq-qi-4lo"; */
+"CXq-qi-4lo.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "ENTER YOUR EMAIL"; ObjectID = "Chk-ps-uWu"; */
+"Chk-ps-uWu.text" = "ENTER YOUR EMAIL";
+
+/* Class = "UITextField"; placeholder = "VEHICLE PLATE NUMBER"; ObjectID = "DN1-2H-tIs"; */
+"DN1-2H-tIs.placeholder" = "VEHICLE PLATE NUMBER";
+
+/* Class = "UILabel"; text = "You must have a pickup truck, cargo van, box truck, or vehicle w/a trailer to become a Move It Pro."; ObjectID = "DRf-Pm-Aav"; */
+"DRf-Pm-Aav.text" = "You must have a pickup truck, cargo van, box truck, or vehicle w/a trailer to become a Move It Pro.";
+
+/* Class = "UILabel"; text = "Select your area"; ObjectID = "DaT-mu-R1z"; */
+"DaT-mu-R1z.text" = "Select your area";
+
+/* Class = "UILabel"; text = "Enter Your Code"; ObjectID = "Dbm-eD-1Dt"; */
+"Dbm-eD-1Dt.text" = "Enter Your Code";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "Dcx-96-VEw"; */
+"Dcx-96-VEw.text" = "No";
+
+/* Class = "UIButton"; normalTitle = "I'M DONE"; ObjectID = "Dgu-UA-rs8"; */
+"Dgu-UA-rs8.normalTitle" = "I'M DONE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Djm-2t-CRf"; */
+"Djm-2t-CRf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Dm4-87-1x1"; */
+"Dm4-87-1x1.text" = "Label";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "E3E-za-qXw"; */
+"E3E-za-qXw.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Select your vehicle type"; ObjectID = "ECB-if-058"; */
+"ECB-if-058.text" = "Select your vehicle type";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "EPq-5V-aoX"; */
+"EPq-5V-aoX.text" = "N/A";
+
+/* Class = "UILabel"; text = "Select Your Service Area Range"; ObjectID = "ETU-6B-Psy"; */
+"ETU-6B-Psy.text" = "Select Your Service Area Range";
+
+/* Class = "UILabel"; text = "$350"; ObjectID = "EkV-kp-eQD"; */
+"EkV-kp-eQD.text" = "$350";
+
+/* Class = "UILabel"; text = "No Notifications Yet!"; ObjectID = "ElH-ac-OLw"; */
+"ElH-ac-OLw.text" = "No Notifications Yet!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Epb-0z-hf7"; */
+"Epb-0z-hf7.text" = "Label";
+
+/* Class = "UILabel"; text = "Move It Pros"; ObjectID = "Eq0-aK-tDG"; */
+"Eq0-aK-tDG.text" = "Move It Pros";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F6Q-jf-ujl"; */
+"F6Q-jf-ujl.text" = "Label";
+
+/* Class = "UILabel"; text = "Please tell us more about item\nApproximate measurements"; ObjectID = "F75-7X-orF"; */
+"F75-7X-orF.text" = "Please tell us more about item\nApproximate measurements";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "FHb-qm-s9K"; */
+"FHb-qm-s9K.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "FRJ-95-3VH"; */
+"FRJ-95-3VH.text" = "Yes";
+
+/* Class = "UITextField"; placeholder = "X"; ObjectID = "FUc-ae-iaf"; */
+"FUc-ae-iaf.placeholder" = "X";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "FZv-lB-N4s"; */
+"FZv-lB-N4s.text" = "From";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FeL-dR-GM8"; */
+"FeL-dR-GM8.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Fjc-bh-BoZ"; */
+"Fjc-bh-BoZ.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "X"; ObjectID = "FqC-eZ-e6O"; */
+"FqC-eZ-e6O.placeholder" = "X";
+
+/* Class = "UILabel"; text = "IRS Form W-9 is most commonly used by individuals when they are working as a freelancer or independent contractor. If you ever find yourself filling out a Form W-9, it generally means that a business or person who is paying you money needs your Social Security number so it can notify the IRS of the amount.\n\nYour information will NEVER be shared, sold, or given to ANYONE. "; ObjectID = "G8H-ZU-ffZ"; */
+"G8H-ZU-ffZ.text" = "IRS Form W-9 is most commonly used by individuals when they are working as a freelancer or independent contractor. If you ever find yourself filling out a Form W-9, it generally means that a business or person who is paying you money needs your Social Security number so it can notify the IRS of the amount.\n\nYour information will NEVER be shared, sold, or given to ANYONE. ";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "GFI-OH-P4N"; */
+"GFI-OH-P4N.text" = "To";
+
+/* Class = "UILabel"; text = "Item Photos"; ObjectID = "GHr-Zh-MdV"; */
+"GHr-Zh-MdV.text" = "Item Photos";
+
+/* Class = "UIButton"; normalTitle = "Save Time Slot"; ObjectID = "GM0-QI-K4H"; */
+"GM0-QI-K4H.normalTitle" = "Save Time Slot";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "GY8-lx-Dir"; */
+"GY8-lx-Dir.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Your feedback is extremely important to us so feel free to drop us a line below."; ObjectID = "GcF-Ps-Z8u"; */
+"GcF-Ps-Z8u.text" = "Your feedback is extremely important to us so feel free to drop us a line below.";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "GcI-bc-F8G"; */
+"GcI-bc-F8G.text" = "Yes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GlK-aW-mvD"; */
+"GlK-aW-mvD.text" = "Label";
+
+/* Class = "UILabel"; text = "4.5"; ObjectID = "GxY-6Z-4rF"; */
+"GxY-6Z-4rF.text" = "4.5";
+
+/* Class = "UILabel"; text = "Questions about becoming a Move It Pro or Muscle: helpers@gomoveit.com"; ObjectID = "Gzs-7j-ZCP"; */
+"Gzs-7j-ZCP.text" = "Questions about becoming a Move It Pro or Muscle: helpers@gomoveit.com";
+
+/* Class = "UILabel"; text = "Which metropolitan area do you want to work in?"; ObjectID = "HLa-9J-N5z"; */
+"HLa-9J-N5z.text" = "Which metropolitan area do you want to work in?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HOi-LC-vQC"; */
+"HOi-LC-vQC.text" = "Label";
+
+/* Class = "UILabel"; text = "Add Additional Detail"; ObjectID = "HQy-Fn-k7H"; */
+"HQy-Fn-k7H.text" = "Add Additional Detail";
+
+/* Class = "UILabel"; text = "8% Free shipping Coupon"; ObjectID = "HRu-N0-rDK"; */
+"HRu-N0-rDK.text" = "8% Free shipping Coupon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HZr-fD-bgB"; */
+"HZr-fD-bgB.text" = "Label";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "HfQ-hw-MVk"; */
+"HfQ-hw-MVk.text" = "N/A";
+
+/* Class = "UILabel"; text = "VEHICLE YEAR"; ObjectID = "ISE-3X-KBd"; */
+"ISE-3X-KBd.text" = "VEHICLE YEAR";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IVQ-uR-KQy"; */
+"IVQ-uR-KQy.text" = "Label";
+
+/* Class = "UILabel"; text = "Move Info"; ObjectID = "IaN-H3-6oo"; */
+"IaN-H3-6oo.text" = "Move Info";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J2j-lw-aOG"; */
+"J2j-lw-aOG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JM6-pT-Dgf"; */
+"JM6-pT-Dgf.text" = "Label";
+
+/* Class = "UILabel"; text = "On Demand Delivery and Move Service"; ObjectID = "Jkc-if-EmC"; */
+"Jkc-if-EmC.text" = "On Demand Delivery and Move Service";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jns-ml-OM5"; */
+"Jns-ml-OM5.text" = "Label";
+
+/* Class = "UILabel"; text = "$350"; ObjectID = "JpV-2N-AN8"; */
+"JpV-2N-AN8.text" = "$350";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "KD7-zs-8Ap"; */
+"KD7-zs-8Ap.text" = "From";
+
+/* Class = "UILabel"; text = "Accept"; ObjectID = "KNM-bw-7sW"; */
+"KNM-bw-7sW.text" = "Accept";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KOK-Ia-dP3"; */
+"KOK-Ia-dP3.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KiH-17-BBg"; */
+"KiH-17-BBg.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KsK-JA-pw6"; */
+"KsK-JA-pw6.text" = "Label";
+
+/* Class = "UILabel"; text = "Move Items"; ObjectID = "LBG-Pb-R2B"; */
+"LBG-Pb-R2B.text" = "Move Items";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LGJ-Iq-dpU"; */
+"LGJ-Iq-dpU.text" = "Label";
+
+/* Class = "UILabel"; text = "EDIT NUMBER"; ObjectID = "LTv-N5-w20"; */
+"LTv-N5-w20.text" = "EDIT NUMBER";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Lck-43-lo8"; */
+"Lck-43-lo8.text" = "From";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LhO-Yv-hLI"; */
+"LhO-Yv-hLI.text" = "Label";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "Lzd-Oz-mby"; */
+"Lzd-Oz-mby.text" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "See More"; ObjectID = "MBi-Tw-0En"; */
+"MBi-Tw-0En.normalTitle" = "See More";
+
+/* Class = "UILabel"; text = "You must have a pickup truck,cargo van, box truck,or vehicle w/ trailer to become a Move It Pro"; ObjectID = "MEG-EJ-Ro6"; */
+"MEG-EJ-Ro6.text" = "You must have a pickup truck,cargo van, box truck,or vehicle w/ trailer to become a Move It Pro";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "MFR-9X-iR8"; */
+"MFR-9X-iR8.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "Move It uses Paypal to directly deposit your weekly earnings. Click on button below to add your Paypal information."; ObjectID = "MPk-GJ-0C5"; */
+"MPk-GJ-0C5.text" = "Move It uses Paypal to directly deposit your weekly earnings. Click on button below to add your Paypal information.";
+
+/* Class = "UILabel"; text = "Dropoff Photos"; ObjectID = "MQ0-P0-3N4"; */
+"MQ0-P0-3N4.text" = "Dropoff Photos";
+
+/* Class = "UILabel"; text = "Photo(s) of vehicle"; ObjectID = "Maq-c1-07V"; */
+"Maq-c1-07V.text" = "Photo(s) of vehicle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MpO-UC-1bl"; */
+"MpO-UC-1bl.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "X"; ObjectID = "Mxd-xk-39Q"; */
+"Mxd-xk-39Q.placeholder" = "X";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MzM-4t-PQc"; */
+"MzM-4t-PQc.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "I didn't get a code"; ObjectID = "N6Z-n6-1oa"; */
+"N6Z-n6-1oa.normalTitle" = "I didn't get a code";
+
+/* Class = "UITextField"; text = "Select your vehicle type"; ObjectID = "NBh-JA-Ec4"; */
+"NBh-JA-Ec4.text" = "Select your vehicle type";
+
+/* Class = "UILabel"; text = "1 Mile"; ObjectID = "NJN-dp-HtD"; */
+"NJN-dp-HtD.text" = "1 Mile";
+
+/* Class = "UILabel"; text = "Pickup Photos"; ObjectID = "NaD-I7-7mp"; */
+"NaD-I7-7mp.text" = "Pickup Photos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ni7-yv-86N"; */
+"Ni7-yv-86N.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SEND CODE"; ObjectID = "Npk-Ud-1IM"; */
+"Npk-Ud-1IM.normalTitle" = "SEND CODE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nvm-zI-n5u"; */
+"Nvm-zI-n5u.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "RESET"; ObjectID = "NzL-qz-Af0"; */
+"NzL-qz-Af0.normalTitle" = "RESET";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "O13-zc-nC5"; */
+"O13-zc-nC5.text" = "N/A";
+
+/* Class = "UILabel"; text = "Use this code to receive 8% off your item + Free Shipping T & C Apply"; ObjectID = "O6c-a3-OP1"; */
+"O6c-a3-OP1.text" = "Use this code to receive 8% off your item + Free Shipping T & C Apply";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OFa-pD-A0p"; */
+"OFa-pD-A0p.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Terms & Services"; ObjectID = "OOB-Mb-r51"; */
+"OOB-Mb-r51.normalTitle" = "Terms & Services";
+
+/* Class = "UILabel"; text = "Step 3/5"; ObjectID = "OUo-Nk-8cL"; */
+"OUo-Nk-8cL.text" = "Step 3/5";
+
+/* Class = "UILabel"; text = "Ex. Ford"; ObjectID = "Oez-2C-Q2m"; */
+"Oez-2C-Q2m.text" = "Ex. Ford";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "P8Y-K1-wfb"; */
+"P8Y-K1-wfb.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Code will be sent to your registered email\nto set new password"; ObjectID = "POr-mC-BRK"; */
+"POr-mC-BRK.text" = "Code will be sent to your registered email\nto set new password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PcH-Nn-yoh"; */
+"PcH-Nn-yoh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pzw-1h-b4i"; */
+"Pzw-1h-b4i.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel Move"; ObjectID = "Q2m-8A-qk2"; */
+"Q2m-8A-qk2.normalTitle" = "Cancel Move";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "QOv-oq-tpd"; */
+"QOv-oq-tpd.text" = "2";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Qa5-ut-ak0"; */
+"Qa5-ut-ak0.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qir-To-wCJ"; */
+"Qir-To-wCJ.text" = "Label";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "QlT-Xw-JeM"; */
+"QlT-Xw-JeM.text" = "ADDRESS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R6X-st-wTh"; */
+"R6X-st-wTh.text" = "Label";
+
+/* Class = "UILabel"; text = "What is the year, make and model of  your vehicle?"; ObjectID = "R8h-OU-dds"; */
+"R8h-OU-dds.text" = "What is the year, make and model of  your vehicle?";
+
+/* Class = "UILabel"; text = "DATE OF BIRTH"; ObjectID = "RKl-lU-BJp"; */
+"RKl-lU-BJp.text" = "DATE OF BIRTH";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RPw-53-dcK"; */
+"RPw-53-dcK.text" = "Label";
+
+/* Class = "UILabel"; text = "Step 5/5"; ObjectID = "Rg4-Fc-EZB"; */
+"Rg4-Fc-EZB.text" = "Step 5/5";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "Ro7-QR-HCr"; */
+"Ro7-QR-HCr.normalTitle" = "Privacy Policy";
+
+/* Class = "UILabel"; text = "This is extremely helpful for your delivery or move"; ObjectID = "Rpx-Ot-xnx"; */
+"Rpx-Ot-xnx.text" = "This is extremely helpful for your delivery or move";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "Ruw-ZT-emE"; */
+"Ruw-ZT-emE.normalTitle" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "S8G-ps-SoG"; */
+"S8G-ps-SoG.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "My Moves"; ObjectID = "S8i-qB-A1x"; */
+"S8i-qB-A1x.text" = "My Moves";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "SPK-OQ-NmK"; */
+"SPK-OQ-NmK.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Do you have a friend or family member who would like to work with you on two-person Moves?"; ObjectID = "SPS-YX-5h9"; */
+"SPS-YX-5h9.text" = "Do you have a friend or family member who would like to work with you on two-person Moves?";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "Scg-kh-aif"; */
+"Scg-kh-aif.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "What do you think this weigh(lbs)?"; ObjectID = "SnJ-AD-FFh"; */
+"SnJ-AD-FFh.placeholder" = "What do you think this weigh(lbs)?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TKd-EP-a8e"; */
+"TKd-EP-a8e.text" = "Label";
+
+/* Class = "UILabel"; text = "You are all set"; ObjectID = "TZP-SD-HN7"; */
+"TZP-SD-HN7.text" = "You are all set";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TfS-MN-Bfa"; */
+"TfS-MN-Bfa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TgL-TS-Iul"; */
+"TgL-TS-Iul.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TjO-ZO-ZSF"; */
+"TjO-ZO-ZSF.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "SKIP"; ObjectID = "TsW-22-wMS"; */
+"TsW-22-wMS.normalTitle" = "SKIP";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "Tvn-lK-sKo"; */
+"Tvn-lK-sKo.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Resend code in seconds"; ObjectID = "UAn-y7-BfZ"; */
+"UAn-y7-BfZ.text" = "Resend code in seconds";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "UHo-YW-Ss5"; */
+"UHo-YW-Ss5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UKL-Yt-vIo"; */
+"UKL-Yt-vIo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UKP-WW-nS3"; */
+"UKP-WW-nS3.text" = "Label";
+
+/* Class = "UILabel"; text = "I have a truck pickup, cargo van, or box truck and can lift over 75 lbs"; ObjectID = "UNE-jp-RHX"; */
+"UNE-jp-RHX.text" = "I have a truck pickup, cargo van, or box truck and can lift over 75 lbs";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UUG-KM-POZ"; */
+"UUG-KM-POZ.text" = "Label";
+
+/* Class = "UISegmentedControl"; Uty-62-06i.segmentTitles[0] = "Paid"; ObjectID = "Uty-62-06i"; */
+"Uty-62-06i.segmentTitles[0]" = "Paid";
+
+/* Class = "UISegmentedControl"; Uty-62-06i.segmentTitles[1] = "UnPaid"; ObjectID = "Uty-62-06i"; */
+"Uty-62-06i.segmentTitles[1]" = "UnPaid";
+
+/* Class = "UILabel"; text = "Offer valid 19 Apr- 25 Apr use code before expired"; ObjectID = "Uwr-kk-Hkc"; */
+"Uwr-kk-Hkc.text" = "Offer valid 19 Apr- 25 Apr use code before expired";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "VBi-4y-iMe"; */
+"VBi-4y-iMe.text" = "From";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VSL-h3-vBH"; */
+"VSL-h3-vBH.text" = "Label";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "W4M-rZ-qKJ"; */
+"W4M-rZ-qKJ.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "No Messages Yet"; ObjectID = "WUJ-lG-yZN"; */
+"WUJ-lG-yZN.text" = "No Messages Yet";
+
+/* Class = "UILabel"; text = "Assemble and Disassemble"; ObjectID = "Wc3-Ln-65z"; */
+"Wc3-Ln-65z.text" = "Assemble and Disassemble";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Whg-ys-wN2"; */
+"Whg-ys-wN2.text" = "From";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wi2-nM-7OO"; */
+"Wi2-nM-7OO.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "VEHICLE MAKE"; ObjectID = "Wji-Oa-RSD"; */
+"Wji-Oa-RSD.placeholder" = "VEHICLE MAKE";
+
+/* Class = "UISegmentedControl"; WrE-2X-MeC.segmentTitles[0] = "Paid"; ObjectID = "WrE-2X-MeC"; */
+"WrE-2X-MeC.segmentTitles[0]" = "Paid";
+
+/* Class = "UISegmentedControl"; WrE-2X-MeC.segmentTitles[1] = "UnPaid"; ObjectID = "WrE-2X-MeC"; */
+"WrE-2X-MeC.segmentTitles[1]" = "UnPaid";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WyD-Wj-3cf"; */
+"WyD-Wj-3cf.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X5e-ma-1OC"; */
+"X5e-ma-1OC.text" = "Label";
+
+/* Class = "UILabel"; text = "How did you hear about the Move It?"; ObjectID = "XKz-41-Cn6"; */
+"XKz-41-Cn6.text" = "How did you hear about the Move It?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XOQ-G6-EZd"; */
+"XOQ-G6-EZd.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Rate Customer"; ObjectID = "XYD-ao-zG7"; */
+"XYD-ao-zG7.text" = "Rate Customer";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xwg-TD-s7t"; */
+"Xwg-TD-s7t.text" = "Label";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Xzd-GQ-eGY"; */
+"Xzd-GQ-eGY.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Mr. Xyzabcd"; ObjectID = "YLB-eI-1eC"; */
+"YLB-eI-1eC.text" = "Mr. Xyzabcd";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "YLH-DK-41Y"; */
+"YLH-DK-41Y.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "YUn-X8-hbj"; */
+"YUn-X8-hbj.text" = "To";
+
+/* Class = "UITextField"; placeholder = "VEHICLE MODEL"; ObjectID = "YgK-wy-Sbo"; */
+"YgK-wy-Sbo.placeholder" = "VEHICLE MODEL";
+
+/* Class = "UILabel"; text = "Take a minute to upload\nyour vehicle photos"; ObjectID = "YpR-hq-zQy"; */
+"YpR-hq-zQy.text" = "Take a minute to upload\nyour vehicle photos";
+
+/* Class = "UILabel"; text = "Take photo of your item(s)"; ObjectID = "ZK1-Pp-K6G"; */
+"ZK1-Pp-K6G.text" = "Take photo of your item(s)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZMM-yO-ptO"; */
+"ZMM-yO-ptO.text" = "Label";
+
+/* Class = "UILabel"; text = "VEHICLE PHOTOS"; ObjectID = "Zaw-cu-Mxf"; */
+"Zaw-cu-Mxf.text" = "VEHICLE PHOTOS";
+
+/* Class = "UILabel"; text = "Set Availability"; ObjectID = "Zgm-As-sJj"; */
+"Zgm-As-sJj.text" = "Set Availability";
+
+/* Class = "UILabel"; text = "Start Service"; ObjectID = "Zol-OP-cng"; */
+"Zol-OP-cng.text" = "Start Service";
+
+/* Class = "UILabel"; text = "No Helper Alloted to this move yet"; ObjectID = "ZwL-o8-RKZ"; */
+"ZwL-o8-RKZ.text" = "No Helper Alloted to this move yet";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZxK-h6-1nO"; */
+"ZxK-h6-1nO.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "a2X-r1-PoC"; */
+"a2X-r1-PoC.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "You need to upload your vehicle front, left side,  right side and back side photo(s)."; ObjectID = "a2e-Hh-KDb"; */
+"a2e-Hh-KDb.text" = "You need to upload your vehicle front, left side,  right side and back side photo(s).";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "aG1-VB-J55"; */
+"aG1-VB-J55.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Move It Pros"; ObjectID = "aM7-Ay-3UG"; */
+"aM7-Ay-3UG.text" = "Move It Pros";
+
+/* Class = "UILabel"; text = "Move It needs Social Security numbers for all independent contractors. "; ObjectID = "aSM-lG-mxT"; */
+"aSM-lG-mxT.text" = "Move It needs Social Security numbers for all independent contractors. ";
+
+/* Class = "UILabel"; text = "Our goal at Move It is to provide 100% customer satisfaction. If you need help with anything or have questions / concerns please don’t hesitate to ask."; ObjectID = "aSz-DM-6BD"; */
+"aSz-DM-6BD.text" = "Our goal at Move It is to provide 100% customer satisfaction. If you need help with anything or have questions / concerns please don’t hesitate to ask.";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "aTP-gA-fKq"; */
+"aTP-gA-fKq.text" = "5";
+
+/* Class = "UILabel"; text = "Ex. F-150"; ObjectID = "aWD-tT-JbZ"; */
+"aWD-tT-JbZ.text" = "Ex. F-150";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "aa1-5v-o7Q"; */
+"aa1-5v-o7Q.normalTitle" = "SEND";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "abo-pJ-9JW"; */
+"abo-pJ-9JW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ahj-rz-ffq"; */
+"ahj-rz-ffq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "anR-YC-nSu"; */
+"anR-YC-nSu.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b1j-Jc-Mc7"; */
+"b1j-Jc-Mc7.text" = "Label";
+
+/* Class = "UILabel"; text = "Each Dolly typical takes 1-2 hours to perform.How Many Moves are you hoping to do each week ?"; ObjectID = "bQP-b4-dXk"; */
+"bQP-b4-dXk.text" = "Each Dolly typical takes 1-2 hours to perform.How Many Moves are you hoping to do each week ?";
+
+/* Class = "UILabel"; text = "Select Your Area"; ObjectID = "bQs-v2-AUa"; */
+"bQs-v2-AUa.text" = "Select Your Area";
+
+/* Class = "UILabel"; text = "Customer Support"; ObjectID = "bSs-10-JSF"; */
+"bSs-10-JSF.text" = "Customer Support";
+
+/* Class = "UILabel"; text = "Photo(s) of Vehicle"; ObjectID = "bTH-JA-RqW"; */
+"bTH-JA-RqW.text" = "Photo(s) of Vehicle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bc3-yI-DVk"; */
+"bc3-yI-DVk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bd3-nC-r02"; */
+"bd3-nC-r02.text" = "Label";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "bnj-Ch-Cs9"; */
+"bnj-Ch-Cs9.text" = "Yes";
+
+/* Class = "UILabel"; text = "We apologize for the inconvenience. Please describe your issue and send a report to help us to analyze the cause of the problem."; ObjectID = "boF-tf-g6Q"; */
+"boF-tf-g6Q.text" = "We apologize for the inconvenience. Please describe your issue and send a report to help us to analyze the cause of the problem.";
+
+/* Class = "UILabel"; text = "No. Of Moves"; ObjectID = "bqX-oe-MJb"; */
+"bqX-oe-MJb.text" = "No. Of Moves";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bs3-sB-IC1"; */
+"bs3-sB-IC1.text" = "Label";
+
+/* Class = "UILabel"; text = "Enter below your friend or family member detail"; ObjectID = "bvL-2e-St3"; */
+"bvL-2e-St3.text" = "Enter below your friend or family member detail";
+
+/* Class = "UILabel"; text = "PM            "; ObjectID = "bxA-xH-Qek"; */
+"bxA-xH-Qek.text" = "PM            ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c3o-P2-gOO"; */
+"c3o-P2-gOO.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cOt-Cf-8Xo"; */
+"cOt-Cf-8Xo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cTH-fZ-jDK"; */
+"cTH-fZ-jDK.text" = "Label";
+
+/* Class = "UILabel"; text = "Upload Vehicle Photos"; ObjectID = "cTl-ge-Zrd"; */
+"cTl-ge-Zrd.text" = "Upload Vehicle Photos";
+
+/* Class = "UILabel"; text = "On The Way"; ObjectID = "crC-BH-tbn"; */
+"crC-BH-tbn.text" = "On The Way";
+
+/* Class = "UIButton"; normalTitle = "Add Time Slot"; ObjectID = "d8e-42-baB"; */
+"d8e-42-baB.normalTitle" = "Add Time Slot";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "dPo-LW-026"; */
+"dPo-LW-026.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "dRo-o0-Q8N"; */
+"dRo-o0-Q8N.text" = "From";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dZm-j4-OtU"; */
+"dZm-j4-OtU.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "09:00 PM"; ObjectID = "db0-Jd-wnJ"; */
+"db0-Jd-wnJ.placeholder" = "09:00 PM";
+
+/* Class = "UILabel"; text = "We are looking for honest, friendly, motivated, hard working, able-bodied individuals with a pick up truck, cargo van, box truck, a vehicle w/a trailer, or just muscle wanting to help"; ObjectID = "dmf-3J-P7t"; */
+"dmf-3J-P7t.text" = "We are looking for honest, friendly, motivated, hard working, able-bodied individuals with a pick up truck, cargo van, box truck, a vehicle w/a trailer, or just muscle wanting to help";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dq9-Bd-TIp"; */
+"dq9-Bd-TIp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dsF-cy-10V"; */
+"dsF-cy-10V.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel Move"; ObjectID = "dzn-Fc-F6J"; */
+"dzn-Fc-F6J.normalTitle" = "Cancel Move";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "eIM-yu-Qzd"; */
+"eIM-yu-Qzd.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "No Message Yet!"; ObjectID = "eK2-fw-RC2"; */
+"eK2-fw-RC2.text" = "No Message Yet!";
+
+/* Class = "UIButton"; normalTitle = "Get Direction"; ObjectID = "eKA-IK-DhW"; */
+"eKA-IK-DhW.normalTitle" = "Get Direction";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "enW-wk-pDw"; */
+"enW-wk-pDw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "evf-Lj-AZp"; */
+"evf-Lj-AZp.text" = "Label";
+
+/* Class = "UILabel"; text = "1.25 PM"; ObjectID = "f2w-bV-SnF"; */
+"f2w-bV-SnF.text" = "1.25 PM";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fBr-xn-9zW"; */
+"fBr-xn-9zW.text" = "Label";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "fCw-hS-p9e"; */
+"fCw-hS-p9e.text" = "5";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "fEF-vX-Ug9"; */
+"fEF-vX-Ug9.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fJ7-aU-Sb1"; */
+"fJ7-aU-Sb1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "fPf-pS-6JB"; */
+"fPf-pS-6JB.normalTitle" = "Accept";
+
+/* Class = "UITextField"; placeholder = "WIDTH (IN)"; ObjectID = "fUZ-2V-D2l"; */
+"fUZ-2V-D2l.placeholder" = "WIDTH (IN)";
+
+/* Class = "UILabel"; text = "Move It Pro and Muscle"; ObjectID = "fZQ-Kc-WhM"; */
+"fZQ-Kc-WhM.text" = "Move It Pro and Muscle";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "fgC-s1-QZa"; */
+"fgC-s1-QZa.text" = "PASSWORD";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fhH-Pn-Qi4"; */
+"fhH-Pn-Qi4.text" = "Label";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "fmb-vb-8bS"; */
+"fmb-vb-8bS.text" = "Messages";
+
+/* Class = "UILabel"; text = "Move Info"; ObjectID = "g06-o0-EbF"; */
+"g06-o0-EbF.text" = "Move Info";
+
+/* Class = "UITextField"; placeholder = "VEHICLE MAKE"; ObjectID = "g1o-tn-tzp"; */
+"g1o-tn-tzp.placeholder" = "VEHICLE MAKE";
+
+/* Class = "UILabel"; text = "What can we move or deliver for you?"; ObjectID = "g2D-fN-oeP"; */
+"g2D-fN-oeP.text" = "What can we move or deliver for you?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gHI-gZ-H5Q"; */
+"gHI-gZ-H5Q.text" = "Label";
+
+/* Class = "UILabel"; text = "Select the days you want to work. You will be notified of available moves only on days you select."; ObjectID = "gQO-J2-Hnm"; */
+"gQO-J2-Hnm.text" = "Select the days you want to work. You will be notified of available moves only on days you select.";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "gSz-JZ-sgy"; */
+"gSz-JZ-sgy.text" = "To";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gVL-sQ-29K"; */
+"gVL-sQ-29K.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "gWx-Ol-nQ6"; */
+"gWx-Ol-nQ6.normalTitle" = "CONTINUE";
+
+/* Class = "UITextField"; placeholder = "X"; ObjectID = "gn5-SC-3mX"; */
+"gn5-SC-3mX.placeholder" = "X";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "gpN-zG-Dnc"; */
+"gpN-zG-Dnc.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Social Security number"; ObjectID = "gzf-cp-77u"; */
+"gzf-cp-77u.placeholder" = "Social Security number";
+
+/* Class = "UITextField"; text = "Select"; ObjectID = "h9u-eL-fev"; */
+"h9u-eL-fev.text" = "Select";
+
+/* Class = "UILabel"; text = "Assemble/Disassemble"; ObjectID = "hO9-FC-aYW"; */
+"hO9-FC-aYW.text" = "Assemble/Disassemble";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hQ4-Tu-FxH"; */
+"hQ4-Tu-FxH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SEND CODE"; ObjectID = "hTi-wd-mmX"; */
+"hTi-wd-mmX.normalTitle" = "SEND CODE";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hWy-Ww-4i0"; */
+"hWy-Ww-4i0.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "Select your vehicle year"; ObjectID = "hYE-mK-Q95"; */
+"hYE-mK-Q95.text" = "Select your vehicle year";
+
+/* Class = "UILabel"; text = "Depth"; ObjectID = "iGu-TR-1RK"; */
+"iGu-TR-1RK.text" = "Depth";
+
+/* Class = "UIButton"; normalTitle = "Connect With Paypal"; ObjectID = "iQu-UM-iwf"; */
+"iQu-UM-iwf.normalTitle" = "Connect With Paypal";
+
+/* Class = "UILabel"; text = "Accepted Helper Info"; ObjectID = "iqj-fm-t46"; */
+"iqj-fm-t46.text" = "Accepted Helper Info";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "jCC-hm-vPo"; */
+"jCC-hm-vPo.normalTitle" = "Edit";
+
+/* Class = "UILabel"; text = "ONE pick-up truck bed load or ONE vehicle w/a trailer load (to a safe capacity). All items must be under 80 lbs. Any items that are 80+ lbs. needs to have 1 Move It Pro AND 1 Muscle, 1 Move It Pro + You, or 2 Move it Pros (two trucks and two Pros) options."; ObjectID = "jG5-s6-VWG"; */
+"jG5-s6-VWG.text" = "ONE pick-up truck bed load or ONE vehicle w/a trailer load (to a safe capacity). All items must be under 80 lbs. Any items that are 80+ lbs. needs to have 1 Move It Pro AND 1 Muscle, 1 Move It Pro + You, or 2 Move it Pros (two trucks and two Pros) options.";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "jiT-vO-wtO"; */
+"jiT-vO-wtO.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "jl3-Cy-PiU"; */
+"jl3-Cy-PiU.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "You can add your available time slot. Work when you want to work."; ObjectID = "kJW-d3-NMr"; */
+"kJW-d3-NMr.text" = "You can add your available time slot. Work when you want to work.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kc0-im-AEO"; */
+"kc0-im-AEO.text" = "Label";
+
+/* Class = "UILabel"; text = "Additional Detail"; ObjectID = "kfv-y7-0Vo"; */
+"kfv-y7-0Vo.text" = "Additional Detail";
+
+/* Class = "UITextField"; placeholder = "UNIT OR APARTMENT NUMBER"; ObjectID = "l1t-vN-fAF"; */
+"l1t-vN-fAF.placeholder" = "UNIT OR APARTMENT NUMBER";
+
+/* Class = "UILabel"; text = "Select Your Vehicle Type"; ObjectID = "l2T-qN-S69"; */
+"l2T-qN-S69.text" = "Select Your Vehicle Type";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "lCU-eZ-bgm"; */
+"lCU-eZ-bgm.text" = "From";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lEm-7X-zQY"; */
+"lEm-7X-zQY.text" = "Label";
+
+/* Class = "UILabel"; text = "Please describe your junk in detail"; ObjectID = "lGh-xW-mey"; */
+"lGh-xW-mey.text" = "Please describe your junk in detail";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "lPU-3J-H3h"; */
+"lPU-3J-H3h.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Next"; ObjectID = "lZw-eN-Jad"; */
+"lZw-eN-Jad.text" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lb1-xy-y0m"; */
+"lb1-xy-y0m.text" = "Label";
+
+/* Class = "UILabel"; text = "Capture Item(s) Pickup Photos"; ObjectID = "lfR-nW-qvf"; */
+"lfR-nW-qvf.text" = "Capture Item(s) Pickup Photos";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lfs-EX-08T"; */
+"lfs-EX-08T.text" = "Label";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "lk1-x8-R6w"; */
+"lk1-x8-R6w.text" = "N/A";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "m6T-vW-JyF"; */
+"m6T-vW-JyF.text" = "From";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "mEA-5t-nZy"; */
+"mEA-5t-nZy.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "Ex. Ford"; ObjectID = "mLw-kE-7LW"; */
+"mLw-kE-7LW.text" = "Ex. Ford";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "mqX-aK-QBa"; */
+"mqX-aK-QBa.normalTitle" = "Edit";
+
+/* Class = "UITextField"; placeholder = "08:00 AM"; ObjectID = "my3-pJ-CE6"; */
+"my3-pJ-CE6.placeholder" = "08:00 AM";
+
+/* Class = "UILabel"; text = "No Notifications Yet"; ObjectID = "n0i-cC-F2o"; */
+"n0i-cC-F2o.text" = "No Notifications Yet";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nPg-sv-Ho9"; */
+"nPg-sv-Ho9.text" = "Label";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "nhJ-S4-vvK"; */
+"nhJ-S4-vvK.text" = "No";
+
+/* Class = "UILabel"; text = "Select your vehicle year"; ObjectID = "nhP-dF-8Lc"; */
+"nhP-dF-8Lc.text" = "Select your vehicle year";
+
+/* Class = "UILabel"; text = "Additional Pickup Details"; ObjectID = "nxX-e3-PWH"; */
+"nxX-e3-PWH.text" = "Additional Pickup Details";
+
+/* Class = "UILabel"; text = "08:00                   "; ObjectID = "oHd-zV-B0t"; */
+"oHd-zV-B0t.text" = "08:00                   ";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "oUh-0u-1W1"; */
+"oUh-0u-1W1.text" = "5";
+
+/* Class = "UILabel"; text = "VEHICLE TYPE"; ObjectID = "oZz-DO-Pai"; */
+"oZz-DO-Pai.text" = "VEHICLE TYPE";
+
+/* Class = "UILabel"; text = "50 Miles"; ObjectID = "oev-ZK-988"; */
+"oev-ZK-988.text" = "50 Miles";
+
+/* Class = "UITextField"; placeholder = "DEPTH (IN)"; ObjectID = "ogd-Uo-uX5"; */
+"ogd-Uo-uX5.placeholder" = "DEPTH (IN)";
+
+/* Class = "UILabel"; text = "It's important to indicate if your Helper(s) needs to go up or down stairs so they can prepared."; ObjectID = "p7B-bV-QGO"; */
+"p7B-bV-QGO.text" = "It's important to indicate if your Helper(s) needs to go up or down stairs so they can prepared.";
+
+/* Class = "UIButton"; normalTitle = "Rate Customer"; ObjectID = "pBF-9L-D49"; */
+"pBF-9L-D49.normalTitle" = "Rate Customer";
+
+/* Class = "UIButton"; normalTitle = "I AGREE"; ObjectID = "pC7-1Z-QrE"; */
+"pC7-1Z-QrE.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pi0-nh-a2D"; */
+"pi0-nh-a2D.text" = "Label";
+
+/* Class = "UILabel"; text = "Ex. F-150"; ObjectID = "plb-XJ-361"; */
+"plb-XJ-361.text" = "Ex. F-150";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "poC-C1-yvb"; */
+"poC-C1-yvb.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q4s-GI-E1v"; */
+"q4s-GI-E1v.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "qNU-RV-w5g"; */
+"qNU-RV-w5g.normalTitle" = "SIGN UP";
+
+/* Class = "UILabel"; text = "8:00                   "; ObjectID = "qP3-T6-LPP"; */
+"qP3-T6-LPP.text" = "8:00                   ";
+
+/* Class = "UITextField"; placeholder = "Type your word here..."; ObjectID = "qUr-vD-gKX"; */
+"qUr-vD-gKX.placeholder" = "Type your word here...";
+
+/* Class = "UILabel"; text = "Receive Notifications"; ObjectID = "qcP-SR-I0O"; */
+"qcP-SR-I0O.text" = "Receive Notifications";
+
+/* Class = "UILabel"; text = "Step 2/5"; ObjectID = "qgn-1C-Ztf"; */
+"qgn-1C-Ztf.text" = "Step 2/5";
+
+/* Class = "UITextField"; placeholder = "PHONE NUMBER"; ObjectID = "qw1-Kz-5NK"; */
+"qw1-Kz-5NK.placeholder" = "PHONE NUMBER";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r04-KU-vw5"; */
+"r04-KU-vw5.text" = "Label";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "r2X-rV-ArI"; */
+"r2X-rV-ArI.text" = "5";
+
+/* Class = "UILabel"; text = "You have successfully complete your moves"; ObjectID = "rBe-IP-jYU"; */
+"rBe-IP-jYU.text" = "You have successfully complete your moves";
+
+/* Class = "UILabel"; text = "Vehicle Type"; ObjectID = "rEb-av-thN"; */
+"rEb-av-thN.text" = "Vehicle Type";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rJe-vq-S15"; */
+"rJe-vq-S15.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rPe-B4-DMm"; */
+"rPe-B4-DMm.text" = "Label";
+
+/* Class = "UILabel"; text = "Move Items"; ObjectID = "rT1-6e-zfs"; */
+"rT1-6e-zfs.text" = "Move Items";
+
+/* Class = "UILabel"; text = "Pending Verification"; ObjectID = "rTZ-M9-l3t"; */
+"rTZ-M9-l3t.text" = "Pending Verification";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rcd-XA-78f"; */
+"rcd-XA-78f.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "s8t-vl-58H"; */
+"s8t-vl-58H.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sH4-gG-RaV"; */
+"sH4-gG-RaV.text" = "Label";
+
+/* Class = "UILabel"; text = "CONTINUE"; ObjectID = "sZM-JM-ZK2"; */
+"sZM-JM-ZK2.text" = "CONTINUE";
+
+/* Class = "UITextField"; placeholder = "HEIGHT (IN)"; ObjectID = "sd3-qt-Gao"; */
+"sd3-qt-Gao.placeholder" = "HEIGHT (IN)";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "t8I-d9-Szt"; */
+"t8I-d9-Szt.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "End Service"; ObjectID = "tLI-vU-awd"; */
+"tLI-vU-awd.text" = "End Service";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "tME-EL-XNB"; */
+"tME-EL-XNB.text" = "No";
+
+/* Class = "UILabel"; text = "VEHICLE PLATE NUMBER"; ObjectID = "tOR-cA-8HK"; */
+"tOR-cA-8HK.text" = "VEHICLE PLATE NUMBER";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tWE-jR-eKE"; */
+"tWE-jR-eKE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Pro & Muscle FAQ"; ObjectID = "tWP-9A-DtW"; */
+"tWP-9A-DtW.normalTitle" = "Pro & Muscle FAQ";
+
+/* Class = "UILabel"; text = "This is something that needs to be broken down and then readdembled after moving. If there are any special tools required, please add in the optional details below."; ObjectID = "tbO-Ye-xVw"; */
+"tbO-Ye-xVw.text" = "This is something that needs to be broken down and then readdembled after moving. If there are any special tools required, please add in the optional details below.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "toS-hU-fqs"; */
+"toS-hU-fqs.normalTitle" = "Done";
+
+/* Class = "UITextField"; placeholder = "X"; ObjectID = "tts-PY-1Xs"; */
+"tts-PY-1Xs.placeholder" = "X";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "uF3-6i-Zvz"; */
+"uF3-6i-Zvz.text" = "Yes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uaC-fB-B9i"; */
+"uaC-fB-B9i.text" = "Label";
+
+/* Class = "UILabel"; text = "By clicking on sign up button you agree to our Terms & Conditions and Privacy policy"; ObjectID = "ufM-KU-Zfh"; */
+"ufM-KU-Zfh.text" = "By clicking on sign up button you agree to our Terms & Conditions and Privacy policy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ugR-7u-wuf"; */
+"ugR-7u-wuf.text" = "Label";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "ulH-xM-MhA"; */
+"ulH-xM-MhA.text" = "To";
+
+/* Class = "UILabel"; text = "No Scheduled Moves Yet!"; ObjectID = "v2J-SR-xpU"; */
+"v2J-SR-xpU.text" = "No Scheduled Moves Yet!";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "vjv-QO-sfz"; */
+"vjv-QO-sfz.text" = "To";
+
+/* Class = "UILabel"; text = "Step 1/5"; ObjectID = "wJC-sP-zyS"; */
+"wJC-sP-zyS.text" = "Step 1/5";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "wRb-a9-nPO"; */
+"wRb-a9-nPO.text" = "5";
+
+/* Class = "UITextField"; placeholder = "VEHICLE PLATE NUMBER"; ObjectID = "wSc-XE-1Mc"; */
+"wSc-XE-1Mc.placeholder" = "VEHICLE PLATE NUMBER";
+
+/* Class = "UILabel"; text = "Upload Vehicle Photos"; ObjectID = "wb7-Vp-PnI"; */
+"wb7-Vp-PnI.text" = "Upload Vehicle Photos";
+
+/* Class = "UILabel"; text = "Email Verification"; ObjectID = "woY-cc-dPK"; */
+"woY-cc-dPK.text" = "Email Verification";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "wpR-xE-IaF"; */
+"wpR-xE-IaF.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "1.25 PM"; ObjectID = "wuO-bI-G1J"; */
+"wuO-bI-G1J.text" = "1.25 PM";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "x3W-bZ-RD2"; */
+"x3W-bZ-RD2.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "Label\nnumber"; ObjectID = "x4l-Ql-pqN"; */
+"x4l-Ql-pqN.text" = "Label\nnumber";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "xD0-zC-eWj"; */
+"xD0-zC-eWj.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xLX-s0-LEU"; */
+"xLX-s0-LEU.text" = "Label";
+
+/* Class = "UILabel"; text = "Select your area"; ObjectID = "xN2-gb-yWJ"; */
+"xN2-gb-yWJ.text" = "Select your area";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xSg-iw-AD7"; */
+"xSg-iw-AD7.text" = "Label";
+
+/* Class = "UILabel"; text = "VEHICLE MODEL"; ObjectID = "xa9-3R-Jos"; */
+"xa9-3R-Jos.text" = "VEHICLE MODEL";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "xcV-S7-Fkj"; */
+"xcV-S7-Fkj.normalTitle" = "NEXT";
+
+/* Class = "UILabel"; text = "VEHICLE PHOTOS"; ObjectID = "xcn-fw-92e"; */
+"xcn-fw-92e.text" = "VEHICLE PHOTOS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xfW-ek-riJ"; */
+"xfW-ek-riJ.text" = "Label";
+
+/* Class = "UILabel"; text = "VEHICLE MAKE"; ObjectID = "xjA-dT-HdP"; */
+"xjA-dT-HdP.text" = "VEHICLE MAKE";
+
+/* Class = "UILabel"; text = "Good Packaers"; ObjectID = "xo6-Se-tT9"; */
+"xo6-Se-tT9.text" = "Good Packaers";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xtr-0H-UIL"; */
+"xtr-0H-UIL.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "X"; ObjectID = "y15-Fv-VZn"; */
+"y15-Fv-VZn.placeholder" = "X";
+
+/* Class = "UILabel"; text = "What is the year, make, and model of your vehicle?"; ObjectID = "y4e-P9-X6T"; */
+"y4e-P9-X6T.text" = "What is the year, make, and model of your vehicle?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yM7-c9-h1u"; */
+"yM7-c9-h1u.text" = "Label";
+
+/* Class = "UILabel"; text = "Move It Pros & Muscle"; ObjectID = "yUW-PS-40w"; */
+"yUW-PS-40w.text" = "Move It Pros & Muscle";
+
+/* Class = "UILabel"; text = "No Payment Information Yet!"; ObjectID = "ybV-mf-1Ap"; */
+"ybV-mf-1Ap.text" = "No Payment Information Yet!";
+
+/* Class = "UILabel"; text = "To"; ObjectID = "yjp-d6-F15"; */
+"yjp-d6-F15.text" = "To";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ylK-ju-u7m"; */
+"ylK-ju-u7m.text" = "Label";
+
+/* Class = "UILabel"; text = "Interested in partnering with Move It for your business? partners@gomoveit.com"; ObjectID = "z2W-sh-i6F"; */
+"z2W-sh-i6F.text" = "Interested in partnering with Move It for your business? partners@gomoveit.com";
+
+/* Class = "UITextField"; placeholder = "VEHICLE MODEL"; ObjectID = "z6D-qO-p3Z"; */
+"z6D-qO-p3Z.placeholder" = "VEHICLE MODEL";
+
+/* Class = "UILabel"; text = "This will notify you when any move or delivery is nearby."; ObjectID = "zMA-Bd-b9K"; */
+"zMA-Bd-b9K.text" = "This will notify you when any move or delivery is nearby.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zjj-0w-Rl3"; */
+"zjj-0w-Rl3.text" = "Label";
