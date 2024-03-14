@@ -1126,8 +1126,8 @@ class W9FormViewController: UIViewController, UITextFieldDelegate, W9PendingView
                   autocompleteController.delegate = self
                     
                     // Specify the place data types to return.
-                    let fields: GMSPlaceField = GMSPlaceField(rawValue: UInt(GMSPlaceField.name.rawValue) |
-                        UInt(GMSPlaceField.placeID.rawValue) | (GMSPlaceField.coordinate.rawValue)  |
+                    let fields: GMSPlaceField = GMSPlaceField(rawValue: UInt64(GMSPlaceField.name.rawValue) |
+                        UInt64(GMSPlaceField.placeID.rawValue) | (GMSPlaceField.coordinate.rawValue)  |
                                                                 (GMSPlaceField.formattedAddress.rawValue) )
                     autocompleteController.placeFields = fields
                     autocompleteController.modalTransitionStyle = .crossDissolve
