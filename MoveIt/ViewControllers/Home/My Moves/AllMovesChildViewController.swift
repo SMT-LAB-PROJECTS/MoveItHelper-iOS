@@ -72,6 +72,49 @@ class AllMovesChildViewController: UIViewController, MoveArrivalTimeDelegate, Ch
         super.viewWillAppear(animated)
         isVisible = true
     }
+    
+    func presentMissingImageUpload(dic: [String: Any]) {
+        let profileImage = dic["is_profile_img"] as? Bool ?? false
+        let signatureImage = dic["is_signature_img"] as? Bool ?? false
+        let vehicleImage = dic["is_vehicle_img"] as? Bool ?? false
+//        if signatureImage {
+//            StaticHelper.moveToViewController("PdfViewerViewController", animated: false)
+//        }else {
+            if profileImage || signatureImage || vehicleImage {
+                if let vc = self.storyboard?.instantiateViewController(withIdentifier: "UploadMissingImagesVC") as? UploadMissingImagesVC {
+                    let title = dic["title_for_img"] as? String ?? ""
+                    let url = dic["signature_web_view_url"] as? String ?? ""
+                    
+                    vc.modalPresentationStyle = .overFullScreen
+                    vc.profile = profileImage
+                    vc.signature = signatureImage
+                    vc.vehicle = vehicleImage
+                    vc.titleText = title
+                    
+                    vc.onCompletionProfile = {
+                        let profileVC = self.storyboard?.instantiateViewController(withIdentifier: "ProfileViewController") as! ProfileViewController
+                        self.navigationController?.pushViewController(profileVC, animated: false)
+                        profileVC.rightTextPressed(UIButton())
+                    }
+                    
+                    vc.onCompletionVehicle = {
+                        callAnalyticsEvent(eventName: "moveit_vehicle_type", desc: ["description":"\(profileInfo?.helper_id ?? 0) checked vehicle info"])
+                        let vehicleVC = self.storyboard?.instantiateViewController(withIdentifier: "VehicleInfoViewController") as! VehicleInfoViewController
+                        self.navigationController?.pushViewController(vehicleVC, animated: true)
+                        DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
+                            vehicleVC.rightTextPressed(UIButton())
+                        }
+                    }
+                    
+                    vc.onCompletionSignature = {
+                        StaticHelper.moveToViewController("PdfViewerViewController", animated: false)
+                    }
+                    self.present(vc, animated: true)
+                }
+//            }
+        }
+    }
+    
     @objc func reloadWhenrequired(){
         
         if moveType == MoveType.Available {
@@ -98,7 +141,7 @@ class AllMovesChildViewController: UIViewController, MoveArrivalTimeDelegate, Ch
         }
      
     callAnalyticsEvent(eventName: "moveit_check_available", desc: ["description":"\(profileInfo?.helper_id ?? 0) fetch available move list"])
-       CommonAPIHelper.getAllAvailableMoves(VC: self, page_index: pageIndex, completetionBlock: { (result, countDic, error, isexecuted) in
+       CommonAPIHelper.getAllAvailableMoves(VC: self, page_index: pageIndex, completetionBlock: { (result, countDic, error, isexecuted, res) in
             DispatchQueue.main.asyncAfter(deadline: .now() + 0.5){
                 if error != nil{
                     return
@@ -115,6 +158,9 @@ class AllMovesChildViewController: UIViewController, MoveArrivalTimeDelegate, Ch
                     }
                     appDelegate.homeVC?.showChangeRequestServicePopup(self.moveDictArray.count)
                     self.tableView.reloadData()
+                    if let data = res {
+                        self.presentMissingImageUpload(dic: data)
+                    }
                 }
             }
         })

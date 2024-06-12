@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C0881C54-BB51-448A-8B14-A034BAB1BBF2"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25B822F1-7EF2-4FC6-9BB0-19AAB4F4792D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoveIt/ViewControllers/SignUpVC/PdfViewerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "showDigitalSignaturePad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25B822F1-7EF2-4FC6-9BB0-19AAB4F4792D - 66edf6da4124735f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoveIt.PdfViewerViewController.showDigitalSignaturePad() -&gt; ()"
+                  moduleName = "MoveIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shri/Documents/SMT-Projects/MoveItHelper-iOS/MoveIt/ViewControllers/SignUpVC/PdfViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "25B822F1-7EF2-4FC6-9BB0-19AAB4F4792D - 1d6e83f29ec1ced4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoveIt.PdfViewerViewController.showDigitalSignaturePad(url: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "MoveIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shri/Documents/SMT-Projects/MoveItHelper-iOS/MoveIt/ViewControllers/SignUpVC/PdfViewerViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "161">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE54A4C7-6D25-4807-ADB5-66A49F639254"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoveIt/ViewControllers/SignUpVC/PdfViewerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "setPopViewDesign()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

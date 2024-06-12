@@ -105,7 +105,7 @@ class MapViewViewController: UIViewController, CLLocationManagerDelegate, MoveAr
     }
     
     func getAllAvailableMoves(){
-        CommonAPIHelper.getAllAvailableMoves(VC: self, page_index: pageIndex, completetionBlock: { (result, countDic, error, isexecuted)  in
+        CommonAPIHelper.getAllAvailableMoves(VC: self, page_index: pageIndex, completetionBlock: { (result, countDic, error, isexecuted, res)  in
             
             if error != nil{
                 

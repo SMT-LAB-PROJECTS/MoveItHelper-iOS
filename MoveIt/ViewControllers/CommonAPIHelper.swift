@@ -21,7 +21,7 @@ class CommonAPIHelper: NSObject {
         return Static.instance
     }
     
-    class func getAllAvailableMoves(VC: UIViewController, page_index: Int, completetionBlock: @escaping ([[String : Any]]?, [String : Any]?, _ error:NSError?, Bool) -> Void){
+    class func getAllAvailableMoves(VC: UIViewController, page_index: Int, completetionBlock: @escaping ([[String : Any]]?, [String : Any]?, _ error:NSError?, Bool, [String : Any]? ) -> Void){
         print(#function)
         if UserCache.userToken() == nil {
             clearData(VC: VC)
@@ -56,11 +56,12 @@ class CommonAPIHelper: NSObject {
                     completetionBlock(res["data"] as? [[String: Any]],
                                       res["HelperMoveCount"] as? [String: Any],
                                       nil,
-                                      nextPageAvailable)
+                                      nextPageAvailable,
+                                      res)
                 }else  if response.response?.statusCode == 204{
-                    completetionBlock([[String: Any]](),nil,nil,false)
+                    completetionBlock([[String: Any]](),nil,nil,false, nil)
                 }else  if response.response?.statusCode == 406{
-                    completetionBlock([[String: Any]](),nil,nil,false)
+                    completetionBlock([[String: Any]](),nil,nil,false, nil)
                 }else if response.response?.statusCode == 401{
                     if let _ = UserDefaults.standard.object(forKey: kUserCache.auth_key) as? String {
                         StaticHelper.shared.stopLoader()
@@ -77,7 +78,7 @@ class CommonAPIHelper: NSObject {
                 if response.response?.statusCode == 401{
                     clearData(VC: VC)
                 } else{
-                    completetionBlock(nil,nil,error as NSError,false)
+                    completetionBlock(nil,nil,error as NSError,false, nil)
                 }
             }
                 if OnboardService.isPrintLog{print("\n***********************END********************\n")}

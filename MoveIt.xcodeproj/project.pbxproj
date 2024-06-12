@@ -90,6 +90,7 @@
 		8D6816B827BF8BC8007B0752 /* AdminChat.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D6816B727BF8BC8007B0752 /* AdminChat.storyboard */; };
 		8D6816BF27BF8BEC007B0752 /* ReceiveImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6816BC27BF8BEA007B0752 /* ReceiveImageTableViewCell.swift */; };
 		8D6816C027BF8BEC007B0752 /* SendImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D6816BD27BF8BEB007B0752 /* SendImageTableViewCell.swift */; };
+		B2B3A19F2C19C13E004B0D23 /* UploadMissingImagesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B3A19E2C19C13E004B0D23 /* UploadMissingImagesVC.swift */; };
 		B32734E3264FC86A0045C7BD /* AppTrackingTransparency.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B32734E2264FC86A0045C7BD /* AppTrackingTransparency.framework */; };
 		B344DEE9266B6C7F0046B738 /* CenterTextCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B344DEE8266B6C7F0046B738 /* CenterTextCell.swift */; };
 		B34E10AB2678AB9A0016FC16 /* ChooseServiceAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = B34E10AA2678AB9A0016FC16 /* ChooseServiceAlert.swift */; };
@@ -301,6 +302,7 @@
 		8D6816B727BF8BC8007B0752 /* AdminChat.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = AdminChat.storyboard; sourceTree = "<group>"; };
 		8D6816BC27BF8BEA007B0752 /* ReceiveImageTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReceiveImageTableViewCell.swift; sourceTree = "<group>"; };
 		8D6816BD27BF8BEB007B0752 /* SendImageTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SendImageTableViewCell.swift; sourceTree = "<group>"; };
+		B2B3A19E2C19C13E004B0D23 /* UploadMissingImagesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadMissingImagesVC.swift; sourceTree = "<group>"; };
 		B32734E2264FC86A0045C7BD /* AppTrackingTransparency.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppTrackingTransparency.framework; path = System/Library/Frameworks/AppTrackingTransparency.framework; sourceTree = SDKROOT; };
 		B344DEE8266B6C7F0046B738 /* CenterTextCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterTextCell.swift; sourceTree = "<group>"; };
 		B34E10AA2678AB9A0016FC16 /* ChooseServiceAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseServiceAlert.swift; sourceTree = "<group>"; };
@@ -645,6 +647,7 @@
 				2BADD443282BFA5300CF00EB /* PopupReason.swift */,
 				2BADD441282BFA4600CF00EB /* PopupReason.xib */,
 				2BD05811282A38F90049F5BE /* AlertViewPermmision.xib */,
+				B2B3A19E2C19C13E004B0D23 /* UploadMissingImagesVC.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -1248,6 +1251,7 @@
 				E3F532BD22E85B7500909439 /* ItemDetailViewController.swift in Sources */,
 				1C5DE76F26FCE4BC00719F23 /* AddItemsViewController.swift in Sources */,
 				E3042C062296DD5600148F2C /* Step3ViewController.swift in Sources */,
+				B2B3A19F2C19C13E004B0D23 /* UploadMissingImagesVC.swift in Sources */,
 				10D6839E23C4A39E00AE5129 /* AddMoreItemTableViewCell.swift in Sources */,
 				2BCB1B2928804BCB00BB1BE4 /* ProfileViewControllerDetails.swift in Sources */,
 				E3F65B2922D6104700B6E1D3 /* MoreViewController.swift in Sources */,

@@ -112,9 +112,9 @@ class HomeViewController: UIViewController {
         bottomTabView.roundCorners(corners: [.topLeft,.topRight], radius: 4)
     }
 
+    
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-
         if(appDelegate.lanchedViaAPNS == true) {
 //            self.view.makeToast("TRUE")
 
