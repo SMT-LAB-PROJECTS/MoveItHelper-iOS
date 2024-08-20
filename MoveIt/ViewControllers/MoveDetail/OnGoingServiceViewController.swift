@@ -900,6 +900,9 @@ class OnGoingServiceViewController: UIViewController, CLLocationManagerDelegate,
         
         //let statusID = ((moveInfo?.helper_status)! == 0) ? 1 : ((moveInfo?.helper_status)! == 1) ? 2 : ((moveInfo?.helper_status)! == 2) ? 3 : ((moveInfo?.helper_status)! == 3) ? 4 : 4
         let statusID = (moveInfo?.helper_status)! + 1
+        if statusID > 6 {
+            return
+        }
         let param = [
                      "request_id":(moveInfo?.request_id)!,
                      "helper_status": statusID,

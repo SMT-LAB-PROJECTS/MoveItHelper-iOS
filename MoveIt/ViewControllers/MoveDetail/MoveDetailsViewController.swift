@@ -47,14 +47,24 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
     @IBOutlet weak var editButton: UIButton!
     @IBOutlet weak var acceptedHelperInfoLabel: UILabel!
     @IBOutlet weak var lblMoveId: UILabel!
-    @IBOutlet weak var helperInfoView: UIView!
     @IBOutlet weak var moveInfoLabel: UILabel!
+    
+    @IBOutlet weak var noHelperView: UIView!
+    
+    @IBOutlet weak var helperInfoView: UIView!
     @IBOutlet weak var helperImgView: UIImageView!
     @IBOutlet weak var helperNameLabel: UILabel!
     @IBOutlet weak var helperTypeLabel: UILabel!
     @IBOutlet weak var callButton: UIButton!
     @IBOutlet weak var messageButton: UIButton!
-    @IBOutlet weak var noHelperView: UIView!
+    
+    @IBOutlet weak var helper2InfoView: UIView!
+    @IBOutlet weak var helper2ImgView: UIImageView!
+    @IBOutlet weak var helper2NameLabel: UILabel!
+    @IBOutlet weak var helper2TypeLabel: UILabel!
+    @IBOutlet weak var call2Button: UIButton!
+    @IBOutlet weak var message2Button: UIButton!
+    
     @IBOutlet weak var nohelperAvaialbleLabel: UILabel!
     @IBOutlet weak var customerBkView: UIView!
     @IBOutlet weak var userImgView: UIImageView!
@@ -168,7 +178,7 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
         acceptButton.isHidden = true
         
         userImgView.layer.cornerRadius = 20.0 //* screenHeightFactor
-        userImgView1.layer.cornerRadius = 20.0 * screenHeightFactor
+        userImgView1.layer.cornerRadius = 20.0 
         userNameLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 12.0)
         serviceLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 10.0)
         priceLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 12.0)
@@ -181,9 +191,13 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
         customerBkView1.layer.cornerRadius = 10.0 * screenHeightFactor
         helperInfoView.layer.cornerRadius = 10.0 * screenHeightFactor
         noHelperView.layer.cornerRadius = 10.0 * screenHeightFactor
-        
+        helper2InfoView.layer.cornerRadius = 10.0 * screenHeightFactor
+
         helperNameLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 14.0)
         helperTypeLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 12.0)
+        helper2NameLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 14.0)
+        helper2TypeLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 12.0)
+
         nohelperAvaialbleLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 15.0)
         moveInfoLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 15.0)
         acceptedHelperInfoLabel.font = UIFont.josefinSansSemiBoldFontWithSize(size: 15.0)
@@ -192,6 +206,8 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
     func isHideChatAndPhone(_ flag:Bool){
         self.callButton.isHidden = flag
         self.messageButton.isHidden = flag
+        self.call2Button.isHidden = flag
+        self.message2Button.isHidden = flag
     }
     func conditionalUIConfiguration() {
         
@@ -244,12 +260,16 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
             }
         }
         
-        if moveType == MoveType.Complete || moveType == MoveType.Canceled{
+        if moveType == MoveType.Complete || moveType == MoveType.Canceled {
             self.callButton.isHidden = true
             self.messageButton.isHidden = true
+            self.call2Button.isHidden = true
+            self.message2Button.isHidden = true
         } else if moveType == MoveType.Available {
             self.callButton.isHidden = true
             self.messageButton.isHidden = true
+            self.call2Button.isHidden = true
+            self.message2Button.isHidden = true
         }
 //        else if isFromAccounting == true{
 //            self.callButton.isHidden = true
@@ -303,9 +323,12 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
         if (moveInfo!.helping_service_required_pros! + moveInfo!.helping_service_required_muscle!) >= 2 {
             
             CommonAPIHelper.getAllotedHelperInfo(VC: self, move_id: moveInfo!.request_id!) { [self] (res, err, isExe) in
-                if isExe{
+                if isExe {
                     self.otherHelperInfo = res!
-                    if self.otherHelperInfo.count > 0{
+                    self.headerView.frame.size.height = (self.otherHelperInfo.count > 1) ? 300 : 220
+                    self.tableView.reloadData()
+                    self.helper2InfoView.isHidden = (self.otherHelperInfo.count > 1) ? false : true
+                    if self.otherHelperInfo.count > 0 {
                         let urlString = self.otherHelperInfo[0]["photo_url"] as! String
                         if(self.helperInfoView != nil) {
                             self.helperInfoView.isHidden = false
@@ -313,28 +336,26 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
                         if(self.noHelperView != nil) {
                             self.noHelperView.isHidden = true
                         }
-                        if let url = URL.init(string: urlString){
-                            print(self.otherHelperInfo)
+                        if let url = URL.init(string: urlString) {
                             if(self.helperImgView != nil) {
                                 self.helperImgView.af.setImage(withURL: url, placeholderImage: UIImage.init(named: "User_placeholder"), filter: nil, progress: nil, progressQueue: .main, imageTransition: .noTransition, runImageTransitionIfCached: .init()) { (_) in
                                 }
-                                
-                                self.helperImgView.layer.cornerRadius = 20.0*screenHeightFactor
+                                self.helperImgView.layer.cornerRadius = 20.0
                             }
                         }
                         if(self.helperNameLabel != nil) {
                             self.helperNameLabel.text = (self.otherHelperInfo[0]["first_name"] as! String) + " " + (self.otherHelperInfo[0]["last_name"] as! String)
                         }
                         if(self.helperTypeLabel != nil) {
-                            if (self.otherHelperInfo[0]["service_type"] as! Int) == 2{
+                            if (self.otherHelperInfo[0]["helper_service_type"] as! Int) == 2{
                                 self.helperTypeLabel.text = "Muscle"
-                            }else if (self.otherHelperInfo[0]["service_type"] as! Int) == 1{
+                            }else if (self.otherHelperInfo[0]["helper_service_type"] as! Int) == 1{
                                 self.helperTypeLabel.text = "Pro"
                             }else{
                                 self.helperTypeLabel.text = "Pro & Muscle"
                             }
                         }
-                        if moveInfo?.is_estimate_hour == 0{
+                        if moveInfo?.is_estimate_hour == 0 {
                             self.lblEstimateHourMessage1.text = ""
                         }else{
                             if moveInfo?.helper_status == 4 {
@@ -342,6 +363,34 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
                                 self.lblEstimateHourMessage1.text = kStringForMoveStatus.workingHours + time
                             }else {
                                 self.lblEstimateHourMessage1.text = moveInfo?.estimate_hour_message
+                            }
+                        }
+                        
+                        // Second helper
+                        if self.otherHelperInfo.count > 1 {
+                            let url2String = self.otherHelperInfo[1]["photo_url"] as! String
+                            if(self.helper2InfoView != nil) {
+                                self.helper2InfoView.isHidden = false
+                            }
+                            if let url = URL.init(string: url2String) {
+                                if(self.helper2ImgView != nil) {
+                                    self.helper2ImgView.af.setImage(withURL: url, placeholderImage: UIImage.init(named: "User_placeholder"), filter: nil, progress: nil, progressQueue: .main, imageTransition: .noTransition, runImageTransitionIfCached: .init()) { (_) in
+                                    }
+                                    self.helper2ImgView.layer.cornerRadius = 20.0
+                                }
+                            }
+                            if(self.helper2NameLabel != nil) {
+                                self.helper2NameLabel.text = (self.otherHelperInfo[1]["first_name"] as! String) + " " + (self.otherHelperInfo[1]["last_name"] as! String)
+                            }
+                            print(self.otherHelperInfo)
+                            if(self.helper2TypeLabel != nil) {
+                                if (self.otherHelperInfo[1]["helper_service_type"] as! Int) == 2{
+                                    self.helper2TypeLabel.text = "Muscle"
+                                }else if (self.otherHelperInfo[1]["helper_service_type"] as! Int) == 1{
+                                    self.helper2TypeLabel.text = "Pro"
+                                }else{
+                                    self.helper2TypeLabel.text = "Pro & Muscle"
+                                }
                             }
                         }
                         
@@ -370,7 +419,7 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
             }
         } else {
             self.tableView.tableHeaderView = oneHelperHeaderView
-            if moveInfo?.is_estimate_hour == 0{
+            if moveInfo?.is_estimate_hour == 0 {
                 self.tableView.tableHeaderView?.frame.size.height = 90.0// * screenHeightFactor
                 self.lblEstimateHourMessage.text = ""
             }else{
@@ -627,7 +676,7 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
                     
                     
                     self.headerView.isHidden = false
-                    self.headerView.frame.size.height = 170.0 * screenHeightFactor
+                    self.headerView.frame.size.height = 300
                     self.addCells = 4
                     //Added this for crash on edit solve
                     print("Result of move details screen's = \(result!)")
@@ -733,6 +782,24 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
 
         self.navigationController?.pushViewController(chatVC, animated: true)
     }
+    @IBAction func message2Action(_ sender: Any) {
+        let chatVC = self.storyboard?.instantiateViewController(withIdentifier: "ChatViewController") as! ChatViewController
+        chatVC.customerName = (self.otherHelperInfo[1]["first_name"] as! String) + " " + (self.otherHelperInfo[1]["last_name"] as! String)
+        chatVC.customerImgUrl = self.otherHelperInfo[1]["photo_url"] as! String
+        chatVC.isHelperChat = true
+        chatVC.customer_ID = self.otherHelperInfo[1]["helper_id"] as! Int
+        chatVC.Tohelper_ID = self.otherHelperInfo[1]["helper_id"] as! Int
+        
+        if let reqId = self.otherHelperInfo[1]["request_id"] as? Int {
+            chatVC.requestId =  reqId.description
+        }
+        if let reqId = self.otherHelperInfo[1]["request_id"] as? String {
+            chatVC.requestId =  reqId
+        }
+        
+
+        self.navigationController?.pushViewController(chatVC, animated: true)
+    }
     
     @IBAction func callButtonAction(_ sender: UIButton) {
         
@@ -744,6 +811,15 @@ class MoveDetailsViewController: UIViewController,MoveArrivalTimeDelegate, Choos
         self.dialNumber(number: num)
     }
   
+    @IBAction func call2ButtonAction(_ sender: Any) {
+        let num = (self.otherHelperInfo[1]["phone_num"] as! String).replacingOccurrences(of: " ", with: "")
+        if(num.isEmpty) {
+            self.view.makeToast("call detail not available.")
+            return
+        }
+        self.dialNumber(number: num)
+    }
+    
     @IBAction func editButtonAction(_ sender: Any) {
         let vc = self.storyboard?.instantiateViewController(withIdentifier: "AdditionalLocationDetailsViewController") as! AdditionalLocationDetailsViewController
         vc.selectedMoveType = self.selectedMoveType

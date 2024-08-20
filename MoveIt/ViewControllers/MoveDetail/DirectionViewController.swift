@@ -79,7 +79,7 @@ class DirectionViewController: UIViewController, CLLocationManagerDelegate {
     
     func updateLocationStatus(){
         
-        if helperStatus >= 2 , helperStatus<4{
+        if helperStatus >= 2 , helperStatus<4 {
             
             let param = ["request_id": requestID,"helper_lat":currentLocation.coordinate.latitude,"helper_lng":currentLocation.coordinate.longitude] as [String : Any]
             CommonAPIHelper.updateHelperLocation(VC: self, params: param) { (res, err, isExe) in
